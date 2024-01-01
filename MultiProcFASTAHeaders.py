@@ -1,3 +1,8 @@
+### Information
+    # @author Lauren Sabo
+    # @version 1.0
+    # notes are for Nikesh Kumar
+
 import subprocess as sp
     # Using "from multiprocessing import Process" lets you just type "Process" into the splitJobs Function below, 
         # if you were to just type "import multiprocessing", you would have to type "multiprocessing.Process(...)" in
